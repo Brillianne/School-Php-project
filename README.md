@@ -1,4 +1,4 @@
-# Online ticket booking School-Php-project
+# Online ticket booking 
 
 Technologies Used
 
